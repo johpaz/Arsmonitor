@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ars Monitor</string>
+    <string name="btn_monitor">ARS Monitor</string>
+    <string name="btn_set_monitor">Settings</string>
+    <string name="tv_intructions">Instructiones: Mueva el boton para obtener el valor, para cada parametro de PH, CO2  y HC3O.</string>
+    <string name="tv_parametros">Guía de cuatro pasos para el análisis de ABG
+¿El pH es normal, acidótico o alcalótico?
+¿La pCO2 o HCO3 son anormales? ¿Cuál parece influir en el pH?
+Si tanto el pCO2 como el HCO3 son anormales, el que más se desvía de la norma probablemente esté causando un pH anormal.
+Compruebe la pO2. ¿Está el paciente hipóxico?</string>
+    <string name="valores_normales">Valores Normales</string>
+    <string name="ph">PH</string>
+    <string name="co2">CO2</string>
+    <string name="hco3">HCO3</string>
+    <string name="monitorgsa">GSA INTERPRETACION</string>
+    <string name="calculate">Calcular</string>
+    <string name="recalculate">Re-Calcular</string>
+    <string name="result">Tu resultado</string>
+    <string name="title_bajo_peso">Bajo peso</string>
+</resources>
